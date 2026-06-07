@@ -1,0 +1,11 @@
+[package]
+name = "band-ensemble-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Collection of autonomous agents forming a self-improving band with Hodge decomposition"
+license = "MIT"
+repository = "https://github.com/SuperInstance/band-ensemble-rs"
+keywords = ["music", "ensemble", "hodge", "agent", "conservation"]
+categories = ["multimedia::audio", "simulation"]
+
+[dependencies]

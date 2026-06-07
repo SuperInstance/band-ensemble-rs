@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 //! # band-ensemble-rs
 //!
 //! A collection of autonomous agents forming a self-improving band ensemble.
